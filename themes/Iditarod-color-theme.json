@@ -25,7 +25,7 @@
     "charts.yellow": "#ffe57f",
     "charts.orange": "#ff9e80",
     "charts.green": "#ccff90",
-    "charts.purple": "#b48ead",
+    "charts.purple": "#ea80fc",
     "charts.foreground": "#d8dee9",
     "charts.lines": "#84ffff",
     "debugConsole.infoForeground": "#84ffff",
@@ -281,7 +281,7 @@
     "terminal.ansiGreen": "#ccff90",
     "terminal.ansiYellow": "#ffe57f",
     "terminal.ansiBlue": "#82b1ff",
-    "terminal.ansiMagenta": "#b48ead",
+    "terminal.ansiMagenta": "#ea80fc",
     "terminal.ansiCyan": "#84ffff",
     "terminal.ansiWhite": "#e5e9f0",
     "terminal.ansiBrightBlack": "#4c566a",
@@ -289,7 +289,7 @@
     "terminal.ansiBrightGreen": "#ccff90",
     "terminal.ansiBrightYellow": "#ffe57f",
     "terminal.ansiBrightBlue": "#82b1ff",
-    "terminal.ansiBrightMagenta": "#b48ead",
+    "terminal.ansiBrightMagenta": "#ea80fc",
     "terminal.ansiBrightCyan": "#b9f6ca",
     "terminal.ansiBrightWhite": "#eceff4",
     "terminal.tab.activeBorder": "#84ffff",
@@ -362,7 +362,7 @@
       "name": "Constant Numeric",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#B48EAD"
+        "foreground": "#ea80fc"
       }
     },
     {
@@ -611,7 +611,7 @@
       "name": "Token Debug",
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#b48ead"
+        "foreground": "#ea80fc"
       }
     },
     {
@@ -687,7 +687,7 @@
       "name": "[CSS] Constant Other Color RGB Value",
       "scope": "source.css constant.other.color.rgb-value",
       "settings": {
-        "foreground": "#B48EAD"
+        "foreground": "#ea80fc"
       }
     },
     {
