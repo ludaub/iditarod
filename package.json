@@ -1,7 +1,7 @@
 {
   "name": "iditarod",
   "displayName": "iditarod",
-  "description": "A nordic theme for Visual Studio Code, inspired by the famous Iditarod sled dog race. Woof!",
+  "description": "A dark and cold theme for Visual Studio Code, named after the famous Iditarod sled dog race. Woof!",
   "version": "0.0.1",
   "publisher": "ludaub",
   "author": {
@@ -25,6 +25,14 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "arctic",
+    "north",
+    "bluish",
+    "cold",
+    "clean",
+    "elegant"
+  ],
   "contributes": {
     "themes": [
       {
@@ -33,5 +41,8 @@
         "path": "./themes/Iditarod-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.5.1"
   }
 }
