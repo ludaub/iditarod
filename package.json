@@ -1,21 +1,37 @@
 {
-    "name": "iditarod",
-    "displayName": "iditarod",
-    "description": "A nordic theme for Visual Studio Code, inspired by the famous Iditarod sled dog race. Woof!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Iditarod",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Iditarod-color-theme.json"
-            }
-        ]
-    }
+  "name": "iditarod",
+  "displayName": "iditarod",
+  "description": "A nordic theme for Visual Studio Code, inspired by the famous Iditarod sled dog race. Woof!",
+  "version": "0.0.1",
+  "publisher": "ludaub",
+  "author": {
+    "name": "Ludovic Aubrière",
+    "email": "ludovic.aubriere@gmail.com",
+    "url": "https://www.linkedin.com/in/ludovic-aubri%C3%A8re-30b27911/"
+  },
+  "homepage": "https://github.com/ludaub/iditarod",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ludaub/iditarod"
+  },
+  "bugs": {
+    "url": "https://github.com/ludaub/iditarod/issues"
+  },
+  "engines": {
+    "node": ">=16.13.1",
+    "npm": ">=8.2.0",
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Iditarod",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Iditarod-color-theme.json"
+      }
+    ]
+  }
 }
