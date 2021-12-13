@@ -1,15 +1,15 @@
 {
   "name": "iditarod",
-  "displayName": "iditarod",
+  "displayName": "Iditarod",
   "description": "A dark and cold theme for Visual Studio Code, named after the famous Iditarod sled dog race. Woof!",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "ludaub",
   "author": {
     "name": "Ludovic Aubrière",
     "email": "ludovic.aubriere@gmail.com",
     "url": "https://www.linkedin.com/in/ludovic-aubri%C3%A8re-30b27911/"
   },
-  "homepage": "https://github.com/ludaub/iditarod",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=ludaub.iditarod",
   "repository": {
     "type": "git",
     "url": "https://github.com/ludaub/iditarod"
@@ -42,7 +42,14 @@
       }
     ]
   },
+  "scripts": {
+    "build": "run-s clean package",
+    "clean": "del *.vsix",
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
   "devDependencies": {
+    "npm-run-all": "^4.1.5",
     "vsce": "^2.5.1"
   }
 }
