@@ -23,3 +23,7 @@ Woof! 🐺
 ### JSON
 
 ![Iditarod: JSON](assets/iditarod-json.png)
+
+### VS Code
+
+![Iditarod: TypeScript](assets/iditarod-vscode.png)
