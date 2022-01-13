@@ -1,9 +1,19 @@
-# Change Log
+# Changelog
 
-All notable changes to the "iditarod" extension will be documented in this file.
+All notable changes to the "Iditarod" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.1 - 2022-01-13
 
-## [Unreleased]
+### Fixed
+
+- Fix CHANGELOG
+
+## 1.1.0 - 2022-01-13
+
+### Added
+
+- Add screenshots to README
+
+## 1.0.0 - 2021-12-08
 
 - Initial release
