@@ -2,6 +2,12 @@
 
 All notable changes to the "Iditarod" extension will be documented in this file.
 
+## 1.2.2 - 2022-01-14
+
+### Fixed
+
+- Fix screenshots in README.
+
 ## 1.2.1 - 2022-01-13
 
 ### Fixed
