@@ -20,6 +20,14 @@ Woof! 🐺
 
 ![Iditarod: CSS](assets/iditarod-css.png)
 
+### C#
+
+![Iditarod: C#](assets/iditarod-csharp.png)
+
+### Python
+
+![Iditarod: Python](assets/iditarod-py.png)
+
 ### JSON
 
 ![Iditarod: JSON](assets/iditarod-json.png)
