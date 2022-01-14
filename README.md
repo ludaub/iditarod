@@ -8,9 +8,13 @@ Woof! 🐺
 
 ## Screenshots
 
-### TypeScript
+### TypeScript (Nest)
 
-![Iditarod: TypeScript](assets/iditarod-ts.png)
+![Iditarod: TypeScript (Nest)](assets/iditarod-ts-nest.png)
+
+### TypeScript (Angular)
+
+![Iditarod: TypeScript (Angular)](assets/iditarod-ts-angular.png)
 
 ### HTML
 

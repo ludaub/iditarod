@@ -2,6 +2,12 @@
 
 All notable changes to the "Iditarod" extension will be documented in this file.
 
+## 1.4.0 - 2022-01-14
+
+### Added
+
+- Add TypeScript (Nest) screenshot to README.
+
 ## 1.3.0 - 2022-01-14
 
 ### Added
